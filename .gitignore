@@ -1,0 +1,18 @@
+#Libs
+node_modules
+# scripts
+
+# Documentations
+docs
+documentation
+
+# IDEs
+.vscode
+.idea
+.DS_Store
+
+# Tests
+coverage
+
+# Cache
+cache
