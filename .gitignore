@@ -13,3 +13,6 @@ documentation
 
 # Tests
 coverage
+
+# Cache
+cache/**.json
