@@ -1,6 +1,6 @@
 {
   "name": "apidoc-bundle",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "This module provide a seamless documentation experience accross all projects.",
   "main": "index.js",
   "directories": {
